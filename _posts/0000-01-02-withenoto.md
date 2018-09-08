@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Always look on the bright side of life
 Use the left arrow to go back!
